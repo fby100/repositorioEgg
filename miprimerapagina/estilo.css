@@ -1,0 +1,29 @@
+
+*{
+	color: yellow;
+	font-size: 20px;
+	font-family: 'Patrick Hand', cursive;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Code Pro', monospace;
+	font-family: 'Supermercado One', cursive;
+	text-align: center;
+
+}
+nav{
+	background-color: red;
+	border: 10px solid blue;
+}
+section h1{
+	background-color: green;
+	height: 200px;
+	margin: 0;
+}
+section h2{
+	background-color: purple;
+	height: 400px;
+}
+footer{
+	background-color: blue;
+	position: relative;
+	height: 500px;
+}
